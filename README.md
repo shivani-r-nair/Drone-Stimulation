@@ -12,12 +12,6 @@ The project simulates a Crazyflie-style drone model with realistic physics and a
 🧱 Physics-based simulation using PyBullet
 🖥️ Live GUI visualization
 
-🧰 Tech Stack
-Python
-PyBullet (Physics Simulation)
-Pygame (Teleoperation Interface)
-Socket Programming (Client–Server communication)
-
 🎯 Controls
 Arrow Keys → Move drone (Forward/Backward/Left/Right)
 U / J → Increase / Decrease altitude
